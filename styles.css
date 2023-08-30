@@ -1,8 +1,12 @@
-/*
+.size-history-modal {
+	height: auto;
+	width: auto;
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
+.size-history-chart {
+	width: 1000px;
+	height: 600px;
+	display: inline-block;
+}
 
-If your plugin does not need CSS, delete this file.
 
-*/
